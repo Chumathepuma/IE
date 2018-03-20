@@ -1,11 +1,16 @@
-body {
-  background-color: 000000;
-}
+/*body {
+  background-color: #ffffff;
+}*/
 
 #centerText {
 	text-align: center;
 }
 
 #navcolor {
-	background-color: 000000;
+	background-color: #ffffff;
 }
+#copyright {
+	background-color: #00acd2;
+}
+
+
